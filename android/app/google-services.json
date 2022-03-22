@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270077176763",
+    "project_id": "flutter-calculator-87c8a",
+    "storage_bucket": "flutter-calculator-87c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270077176763:android:eae1d749ce6bfd656e729e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270077176763-fu1q2ksqs3mn8ria2268movk5gqg8487.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8r9pQulDi7liGrH6wJBi2TTSy3RjAPZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270077176763-fu1q2ksqs3mn8ria2268movk5gqg8487.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
